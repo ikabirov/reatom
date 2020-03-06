@@ -1,6 +1,5 @@
 # Table of contents
 
-- [README](docs/README.md)
 - [API](docs/glossary.md)
   - [@reatom/debug](docs/packages/debug.md)
   - [@reatom/babel-plugin](docs/packages/babel-plugin.md)
