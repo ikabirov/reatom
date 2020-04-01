@@ -60,6 +60,9 @@ typings/
 # next.js build output
 .next
 
+# tscc
+.tscc_temp
+
 #
 .DS_Store
 dist/
